@@ -1,0 +1,45 @@
+body{
+    font-family:Roboto, Arial;
+    background-color:white;
+    font-size:15px;
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    padding-top:40px;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width:215px;
+    margin:0 auto;
+    background-color:white;
+    border-radius: 10px;
+    
+
+}
+
+.qr-code img{
+    height:200px;
+    width:200px;
+    border-radius: 10px;
+    margin-bottom:15px;
+    margin-top:11px;
+    
+}
+
+.heading{
+    width:190px;
+    font-weight: 700;
+    margin-bottom:15px;
+
+}
+
+.para{
+    width:190px;
+    font-weight:400;
+    color:hsl(216, 15%, 48%);
+    margin-bottom:15px;
+}
+
