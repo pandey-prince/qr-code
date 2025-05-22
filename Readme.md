@@ -29,10 +29,19 @@ So this is QR Code Component Solution From Frontend Mentor;
 
 - Solution URL: (https://github.com/pandey-prince/qr-code)
 
-- Live Site URL: ()
+- Live Site URL: (https://qr-code-princepandey.vercel.app/)
 
 
 ### Built with 
 - Semantic HTML5 markup 
 - CSS custom properties
 - Flexbox
+
+
+### What I learned 
+
+In this project I learned deeply about flexbox and Css.
+
+### deployement
+
+I used VERCEL for the deployement of the project.
