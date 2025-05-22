@@ -1,10 +1,22 @@
 body{
     font-family:Roboto, Arial;
-    background-color:white;
+   
     font-size:15px;
     text-align: center;
     background-color: hsl(212, 45%, 89%);
-    padding-top:40px;
+    
+    
+   
+}
+.gp{
+    display:flex;
+
+    border:2px solid red;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+   
+
 }
 .parent{
     display: flex;
@@ -13,6 +25,7 @@ body{
     justify-content: center;
     
     width:215px;
+    position:absolute;
     margin:0 auto;
     background-color:white;
     border-radius: 10px;
@@ -42,4 +55,3 @@ body{
     color:hsl(216, 15%, 48%);
     margin-bottom:15px;
 }
-
