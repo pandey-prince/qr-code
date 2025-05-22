@@ -10,8 +10,6 @@ body{
 }
 .gp{
     display:flex;
-
-    
     height: 100vh;
     align-items: center;
     justify-content: center;
@@ -32,7 +30,13 @@ body{
     
 
 }
-
+@media(width:374px)
+{
+    .parent{
+        height:80vh;
+        width:80vw;
+    }
+}
 .qr-code img{
     height:200px;
     width:200px;
